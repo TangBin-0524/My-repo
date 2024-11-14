@@ -20,7 +20,7 @@ const int INF=INT_MAX;
 inline void ckmax(int &x,int y){x=x<y?y:x;}
 int main()
 {
-	
+	cout<<"Hello World"<<endl;
 	return 0;
 }
 
